@@ -1,20 +1,20 @@
-# Available .TRADE One-Word Domains (8,824)
+# Available .TRADE One-Word Domains (8,823)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C823%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C824%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C823%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .trade one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .trade one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,823-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,824 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,823 rows · **Live catalog:** 8,824 domains
+**Public extract:** 8,823 rows · **Live catalog:** 8,823 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/trade`  
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | aaron.trade      | available | $9.98     | —             | 88             | 35     | 5      | namecheap                                                 |
-| taiwan.trade     | resell    | —         | —             | 66             | 93     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| gross.trade      | resell    | $9.98     | —             | 64             | 26     | 5      | Dynadot Inc                                               |
 | nationwide.trade | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                                                  |
 | curative.trade   | available | $9.98     | —             | 92             | 27     | 8      | namecheap                                                 |
-| standard.trade   | resell    | —         | —             | 66             | 70     | 8      | Porkbun                                                   |
+| taiwan.trade     | resell    | —         | —             | 66             | 93     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | seventeen.trade  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                                  |
 | outside.trade    | available | $9.98     | —             | 60             | 27     | 7      | namecheap                                                 |
-| lens.trade       | resell    | —         | —             | 62             | 69     | 4      | Dynadot Inc                                               |
+| standard.trade   | resell    | —         | —             | 66             | 70     | 8      | Porkbun                                                   |
 | business.trade   | premium   | $6,500    | $130          | 100            | 53     | 8      | namecheap                                                 |
 | dirty.trade      | available | $9.98     | —             | 92             | 26     | 5      | namecheap                                                 |
-| prompt.trade     | resell    | —         | —             | 114            | 68     | 6      | Spaceship, Inc.                                           |
+| lens.trade       | resell    | —         | —             | 62             | 69     | 4      | Dynadot Inc                                               |
 | athletics.trade  | premium   | $455      | $65           | 69             | 52     | 9      | namecheap                                                 |
-| gross.trade      | available | $9.98     | —             | 64             | 26     | 5      | namecheap                                                 |
-| enjoy.trade      | resell    | —         | —             | 88             | 66     | 5      | Porkbun                                                   |
-| game.trade       | premium   | $12,500   | $125          | 120            | 50     | 4      | name.com                                                  |
 | stretch.trade    | available | $9.98     | —             | 100            | 24     | 7      | namecheap                                                 |
-| square.trade     | resell    | —         | —             | 72             | 65     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| security.trade   | premium   | $1,300    | $130          | 70             | 49     | 8      | namecheap                                                 |
+| prompt.trade     | resell    | —         | —             | 114            | 68     | 6      | Spaceship, Inc.                                           |
+| game.trade       | premium   | $12,500   | $125          | 120            | 50     | 4      | name.com                                                  |
 | damn.trade       | available | $9.98     | —             | 140            | 23     | 4      | namecheap                                                 |
-| even.trade       | resell    | —         | —             | 98             | 64     | 4      | Porkbun                                                   |
+| enjoy.trade      | resell    | —         | —             | 88             | 66     | 5      | Porkbun                                                   |
+| security.trade   | premium   | $1,300    | $130          | 70             | 49     | 8      | namecheap                                                 |
+| debate.trade     | available | $9.98     | —             | 90             | 23     | 6      | namecheap                                                 |
+| square.trade     | resell    | —         | —             | 72             | 65     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,823-row public sample | 8,824 live domains                               |
+| 8,823-row public sample | 8,823 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
