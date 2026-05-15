@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trade one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,699 domains · **Median ask:** $266.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/trade`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | burger.trade       | resell    | —         | —             | 84             | 27     | 6      | Dynadot Inc                     |
 | vegan.trade        | premium   | $4,002.43 | —             | 82             | 41     | 5      | NameSilo, LLC                   |
 | SanDiego.trade     | available | $5.25     | $6.25         | 74             | 29     | 9      | namesilo                        |
-| did.trade          | resell    | —         | —             | 78             | 27     | 3      | NameCheap, Inc.                 |
+| did.trade          | resell    | —         | —             | 78             | 25     | 3      | NameCheap, Inc.                 |
 | aliens.trade       | premium   | $437.50   | —             | 56             | 35     | 6      | name.com                        |
 | forms.trade        | available | $9.98     | —             | 54             | 28     | 5      | namecheap                       |
 | distributed.trade  | resell    | —         | —             | 64             | 21     | 11     | Sav.com LLC                     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
