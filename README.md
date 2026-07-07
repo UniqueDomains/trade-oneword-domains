@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .trade one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,700 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,700 domains · **Median ask:** $266.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,700 domains · **Median ask:** $294.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/trade`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/trade`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TRADE one-word domain
 
 ### Files
 
-- `trade.csv` — public CSV extract (1,000 rows)
-- `trade.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `trade.csv`, public CSV extract (1,000 rows)
+- `trade.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| travelers.trade    | available | $5.25     | $6.25         | 58             | 61     | 9      | namesilo                        |
-| payments.trade     | resell    | —         | —             | 58             | 33     | 8      | Dynadot Inc                     |
-| regions.trade      | premium   | $625      | —             | 64             | 59     | 7      | name.com                        |
-| neuroscience.trade | available | $9.98     | —             | 80             | 37     | 12     | namecheap                       |
-| burger.trade       | resell    | —         | —             | 84             | 27     | 6      | Dynadot Inc                     |
-| vegan.trade        | premium   | $4,002.43 | —             | 82             | 41     | 5      | NameSilo, LLC                   |
-| SanDiego.trade     | available | $5.25     | $6.25         | 74             | 29     | 9      | namesilo                        |
-| did.trade          | resell    | —         | —             | 78             | 25     | 3      | NameCheap, Inc.                 |
-| aliens.trade       | premium   | $437.50   | —             | 56             | 35     | 6      | name.com                        |
-| forms.trade        | available | $9.98     | —             | 54             | 28     | 5      | namecheap                       |
-| distributed.trade  | resell    | —         | —             | 64             | 21     | 11     | Sav.com LLC                     |
-| slots.trade        | premium   | $1,107    | $116          | 49             | 31     | 5      | namesilo                        |
-| veterans.trade     | available | $9.98     | —             | 56             | 23     | 8      | namecheap                       |
-| watches.trade      | resell    | —         | —             | 84             | 19     | 7      | Porkbun                         |
-| inspiration.trade  | premium   | $437.50   | —             | 88             | 30     | 11     | name.com                        |
-| CapeCod.trade      | available | $9.98     | —             | 78             | 22     | 8      | namecheap                       |
-| vacations.trade    | resell    | —         | —             | 56             | 19     | 9      | Dynadot Inc                     |
-| videos.trade       | premium   | $6,250    | —             | 52             | 30     | 6      | name.com                        |
-| geeks.trade        | available | $9.98     | —             | 54             | 21     | 5      | namecheap                       |
-| worlds.trade       | resell    | —         | —             | 62             | 17     | 6      | TuringSign Inc. d/b/a Cosmotown |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| born.trade  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| june.trade  | resell    | $9.98     | —             | high           | low    | 4      | Dynadot Inc                                         |
+| aaa.trade   | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                           |
+| cock.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| watt.trade  | resell    | $9.98     | —             | medium         | low    | 4      | Dynadot Inc                                         |
+| add.trade   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| else.trade  | available | $9.98     | —             | high           | low    | 4      | namecheap                                           |
+| gross.trade | resell    | $9.98     | —             | medium         | low    | 5      | Dynadot Inc                                         |
+| ADS.trade   | premium   | $625      | —             | high           | medium | 3      | name.com                                            |
+| Greg.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| gym.trade   | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| aim.trade   | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| soap.trade  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| axis.trade  | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC                                    |
+| BJP.trade   | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| sort.trade  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| baby.trade  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
+| bob.trade   | premium   | $625      | —             | high           | medium | 3      | name.com                                            |
+| xxii.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| date.trade  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word domains in the .trade extension. The names range from direct commercial terms such as value.trade to broader dictionary words like remote.trade and flexible.trade. For founders, the main question is whether the word feels specific enough to support a credible business without over-explaining the extension. For investors, the key test is buy-in discipline: the median ask is 256.57, so compare each name against clarity, resale plausibility, and likely renewal tolerance. Short, familiar words usually read faster, but fit matters more than novelty in this extension.
+This selection covers 11,700 one-word .trade domains available now, ranging from short evocative names to descriptive compound terms such as thanksgiving.trade and rolemodel.trade. Median asking price across the set is near $294, offering a practical benchmark when comparing options. Whether the goal is cost efficiency or brand fit, renewal price and name length remain the two most useful signals for narrowing this list into a workable shortlist.
 
-- All results are single-word domains in the .trade TLD
-- Median ask across this set is 256.57
-- Examples include value.trade, easy.trade, and remote.trade
-- Prioritize clarity, fit, and renewal tolerance
+- 11,700 available one-word .trade domains, updated daily
+- Median asking price near $294 across the entire set
+- Compound one-word names like burger.trade and coffeemilk.trade
+- Best evaluated by price, renewal cost, and brandability signals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
