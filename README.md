@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trade one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,619 domains · **Median ask:** $212.38 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/trade`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| simple.trade  | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc.                                     |
 | auld.trade    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
 | june.trade    | resell    | $9.98     | —             | high           | low    | 4      | Dynadot Inc                                         |
 | aaa.trade     | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                           |
@@ -84,6 +83,7 @@ print(df.head())
 | axis.trade    | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC                                    |
 | bob.trade     | premium   | $625      | —             | high           | medium | 3      | name.com                                            |
 | Greg.trade    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| baby.trade    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
