@@ -11,7 +11,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58657c1d-4bff-4bff-a853-af19210f814f,specification.trade,available,5.25,6.25,low,low,13,namesilo,,
 7c9f709c-1d2a-44ec-82ba-de03ec5ad783,protected.trade,available,5.25,6.25,high,low,9,namesilo,,
 573bba9e-0956-495a-87c5-82660a19f4b6,measles.trade,available,9.98,,medium,low,7,namecheap,,
-bd326558-b781-4a15-96ae-124edb20adfe,nutritious.trade,premium,437.5,62.5,medium,low,10,name.com,,
+bd326558-b781-4a15-96ae-124edb20adfe,nutritious.trade,premium,455,65,medium,low,10,namecheap,,
 2e3e96ea-9dc4-4ac9-8a69-d28a73224286,musical.trade,premium,130,32.5,high,low,7,namecheap,,
 8f6c0312-1629-4c18-a780-f5fba458eebf,naturestudent.trade,available,5.25,6.25,low,low,14,namesilo,,
 7b6933e5-b555-4d73-8386-f0f8b8e1b20a,fate.trade,available,,,medium,low,4,,,
