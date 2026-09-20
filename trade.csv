@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 97c6aa0d-86f3-40b2-81dd-fc7863ab29db,admiration.trade,premium,437.5,,high,low,10,name.com,,,
-8b8e7a4c-e13b-4d87-a374-7abd182c1bdd,dollar.trade,resell,,,high,low,6,"NameCheap, Inc.",29/07/2019 18:52,29/07/2026 18:52,
+8b8e7a4c-e13b-4d87-a374-7abd182c1bdd,dollar.trade,resell,,,high,low,6,"NameCheap, Inc.",29/07/2019 18:52,29/07/2027 18:52,20/09/2026 04:01
 01c0e2af-f1b2-496e-bfa1-2fad60663278,alvine.trade,available,5.25,6.25,low,low,6,namesilo,,,
 6264b7de-9798-4c62-8610-166bc7455740,sold.trade,premium,437.5,,high,low,4,name.com,,,
 0989b889-1a3e-42ec-bf5c-d9055b648190,match.trade,premium,6500,130,high,medium,5,namecheap,,,17/09/2026 10:09
@@ -11,14 +11,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58657c1d-4bff-4bff-a853-af19210f814f,specification.trade,available,5.25,6.25,low,low,13,namesilo,,,
 7c9f709c-1d2a-44ec-82ba-de03ec5ad783,protected.trade,available,5.25,6.25,high,low,9,namesilo,,,
 573bba9e-0956-495a-87c5-82660a19f4b6,measles.trade,available,9.98,,medium,low,7,namecheap,,,
-bd326558-b781-4a15-96ae-124edb20adfe,nutritious.trade,premium,455,65,medium,low,10,namecheap,,,12/09/2026 19:02
+bd326558-b781-4a15-96ae-124edb20adfe,nutritious.trade,premium,448,53.92,medium,low,10,namesilo,,,19/09/2026 11:02
 2e3e96ea-9dc4-4ac9-8a69-d28a73224286,musical.trade,premium,130,32.5,high,low,7,namecheap,,,
 8f6c0312-1629-4c18-a780-f5fba458eebf,naturestudent.trade,available,5.25,6.25,low,low,14,namesilo,,,
 7b6933e5-b555-4d73-8386-f0f8b8e1b20a,fate.trade,available,,,medium,low,4,,,,
 c86ce7c9-dc76-44af-95c2-9c6748e47063,observer.trade,premium,437.5,,medium,low,8,name.com,,,
 f67b9074-4785-4533-848d-c736bc35585e,nearly.trade,available,5.25,6.25,high,low,6,namesilo,,,
 ab6c71f8-030e-4358-84bd-e5c467a93f60,nutty.trade,available,5.25,6.25,low,low,5,namesilo,,,06/08/2026 21:27
-8dca2ed6-1392-4053-96b0-c95c47a9985d,UnitedKingdom.trade,available,,,low,low,14,,,,
+8dca2ed6-1392-4053-96b0-c95c47a9985d,unitedkingdom.trade,available,,,low,low,14,,,,
 3245c81a-98cf-4d8c-bcb1-d0f3291f7028,lockbox.trade,premium,437.5,,medium,low,7,name.com,,,
 fd4dfe11-823d-47a0-b47b-b64513180584,seats.trade,available,5.25,6.25,high,low,5,namesilo,,,
 8a69dca6-4185-4199-a3e5-5165a305e80f,acting.trade,available,5.25,6.25,high,low,6,namesilo,,,
@@ -32,15 +32,14 @@ aa6cdfac-3cda-4d3c-b231-658b4fad670f,quickness.trade,available,5.25,6.25,high,lo
 7337f0d4-cc24-432c-919e-9e1269e27c70,styptic.trade,available,5.25,6.25,low,low,7,namesilo,,,07/08/2026 10:00
 a494e132-2fdc-4e78-9130-930aff995ca9,arbitral.trade,available,5.25,6.25,low,low,8,namesilo,,,06/08/2026 12:48
 e9440670-774c-40ae-9d3c-fac6e1972022,ascension.trade,premium,437.5,62.5,low,low,9,name.com,,,07/08/2026 00:30
-d21614e2-e24d-4330-9076-ada44c15f40d,player.trade,premium,3250,130,medium,low,6,namecheap,,,15/09/2026 00:56
+d21614e2-e24d-4330-9076-ada44c15f40d,player.trade,premium,3450,116,low,low,6,namesilo,,,19/09/2026 09:54
 241b9615-2221-44ff-a234-587b9a17de50,backtosquareone.trade,available,5.25,6.25,high,low,18,namesilo,,,
 fe8e5763-ccc2-487d-ae91-7ae95c1b2536,trees.trade,premium,437.5,,medium,low,5,name.com,,,
-75ef762e-1c88-4b5f-9332-4f24742b6ace,industry.trade,resell,,,medium,medium,8,Porkbun,31/07/2019 13:40,31/07/2026 13:40,
 442de424-4971-43a7-8d9b-e95c90013b78,arillate.trade,available,5.25,6.25,low,low,8,namesilo,,,06/08/2026 19:14
 b0d3f43d-2107-4b82-b409-4c9959b64029,zoologicalpark.trade,available,5.25,6.25,high,low,15,namesilo,,,
 c1e030fe-3d9a-41f0-a1c2-3354cd1473f0,annoyed.trade,available,5.25,6.25,medium,low,7,namesilo,,,
 b6a7f942-56f4-4ef2-9bda-f77d8d13adbc,describe.trade,premium,437.5,,high,low,8,name.com,,,
-2344be28-a562-4ec3-ab63-73685a3bd209,Christmascarol.trade,premium,437.5,,high,low,15,name.com,,,
+2344be28-a562-4ec3-ab63-73685a3bd209,christmascarol.trade,premium,437.5,,high,low,15,name.com,,,
 e2f91286-bd05-4b97-b31f-08a99fe353be,airdried.trade,available,5.25,6.25,low,low,9,namesilo,,,
 e8c8d3f5-6868-4174-b97b-ffc9c333f671,axis.trade,resell,,,medium,medium,4,"GoDaddy.com, LLC",31/10/2023 02:58,31/10/2026 02:58,
 b36b1e2f-8f66-46a9-bed8-76a0af627d90,flack.trade,available,5.25,6.25,low,low,5,namesilo,,,
@@ -72,7 +71,7 @@ ef812d29-e38e-4537-b454-da791f2a31b4,possibly.trade,available,9.98,,medium,low,8
 1da03b7f-f7f8-454f-af44-7fcc57fedc55,injure.trade,available,5.25,6.25,medium,low,6,namesilo,,,
 56a28812-7055-46a4-a816-7d9cd27cc6e4,teammate.trade,premium,437.5,,high,low,8,name.com,,,
 024621d1-018c-482f-8899-9b9d51662e80,squall.trade,premium,437.5,,high,low,6,name.com,,,
-66b2645e-9bc4-4bc7-9a09-e23de1051164,PeaceCorps.trade,available,5.25,6.25,medium,low,11,namesilo,,,
+66b2645e-9bc4-4bc7-9a09-e23de1051164,peacecorps.trade,available,5.25,6.25,medium,low,11,namesilo,,,
 f7e4648a-19a4-4c45-ae0b-9db40dcccd01,starchlike.trade,available,5.25,6.25,low,low,10,namesilo,,,
 fd530970-0b4c-4c2b-8e3f-855a6f0eb565,accountstatement.trade,available,9.98,,medium,low,17,namecheap,,,
 a78fb566-1b94-4b43-ab9f-b241691d7bbb,adjunct.trade,premium,437.5,62.5,low,low,7,name.com,,,
@@ -82,16 +81,16 @@ c1a357e0-9ea7-4300-90eb-723c88ac8277,aphakic.trade,available,5.25,6.25,low,low,7
 5741d97b-44a7-48fe-9b24-1a460f05385a,overjoy.trade,available,5.25,6.25,high,low,7,namesilo,,,
 27247b8e-f128-4c4f-b64c-fa76df8708fe,roman.trade,premium,437.5,,high,low,5,name.com,,,
 90c9b350-bbf0-4658-80b9-bf0a3f2740fa,endearing.trade,premium,437.5,62.5,high,low,9,name.com,,,
-09d1a192-7813-45b3-bf5a-69ca2fc042c7,midJanuary.trade,available,9.98,,high,low,11,namecheap,,,
+09d1a192-7813-45b3-bf5a-69ca2fc042c7,midjanuary.trade,available,9.98,,high,low,11,namecheap,,,
 369b44ba-07e1-45d3-818a-650237c9b7e5,drown.trade,available,5.25,6.25,medium,low,5,namesilo,,,
-aa42368c-20a6-46cf-9662-b59cb517d82c,rightaway.trade,available,5.25,6.25,low,low,10,namesilo,,,14/09/2026 10:46
+aa42368c-20a6-46cf-9662-b59cb517d82c,rightaway.trade,available,5.25,6.25,low,low,10,namesilo,,,19/09/2026 11:46
 9171d25f-25ac-472b-9327-5611c974413f,welfarecheck.trade,available,5.25,6.25,medium,low,13,namesilo,,,
 6608e06b-cad1-4213-afba-a08ee0d36eaf,services.trade,available,,,high,low,8,,,,
 3fad6e30-e193-4412-b920-543a65e28f0b,hypocritically.trade,available,5.25,6.25,medium,low,14,namesilo,,,
 585f9159-8a49-4762-ae8c-d2df07649ea8,tons.trade,premium,437.5,,high,low,4,name.com,,,
 998fd1b0-4334-4457-8df1-3d2e4a96eedb,airdry.trade,premium,437.5,62.5,low,low,7,name.com,,,
 35896294-d12a-40b7-a4e9-728c5087ac61,runabout.trade,premium,437.5,,low,low,9,name.com,,,
-e04ac4c1-4870-4559-9c8b-8ebf7ca8f202,Shrek.trade,premium,437.5,,high,medium,5,name.com,,,
+e04ac4c1-4870-4559-9c8b-8ebf7ca8f202,shrek.trade,premium,437.5,,high,medium,5,name.com,,,
 b3169d5b-2432-4f00-be03-9aadfea7d26f,indentured.trade,available,5.25,6.25,low,low,10,namesilo,,,06/08/2026 08:34
 0b15d0ca-4db3-4772-bae8-6b67e4b95fb8,forecloser.trade,available,5.25,6.25,medium,low,10,namesilo,,,
 6e2040ff-e45d-40c9-b9f3-89e2090a4b8b,fervent.trade,premium,437.5,62.5,low,low,7,name.com,,,06/08/2026 16:14
@@ -104,12 +103,12 @@ c59b1ca3-a17a-4deb-90ea-732a2adfec16,justabout.trade,available,5.25,6.25,medium,
 36c05f87-95a7-4d09-ac36-7f6f971318fa,closetogether.trade,available,5.25,6.25,medium,low,14,namesilo,,,
 c71aa41d-06ac-496a-8045-63ce6a299672,collarbone.trade,premium,437.5,,medium,low,11,name.com,,,
 32fc3f2c-3dfc-483c-8dd8-371e724ec5ea,execrable.trade,available,5.25,6.25,low,low,9,namesilo,,,
-50e505d8-1bf4-4141-a256-9c6612c0f0b6,education.trade,resell,,,high,low,9,Porkbun,29/07/2019 13:10,29/07/2026 13:10,
+50e505d8-1bf4-4141-a256-9c6612c0f0b6,education.trade,resell,,,medium,low,9,"Spaceship, Inc.",29/07/2019 13:10,29/07/2027 13:10,19/09/2026 06:14
 d5a0fb67-1e84-4d69-962f-371b71b23fb4,gym.trade,resell,,,high,low,3,"Chengdu West Dimension Digital Technology Co., Ltd.",31/10/2015 07:29,30/10/2027 23:59,
-70b31432-b104-4018-b4a6-b5e4762f4ec3,Bflat.trade,available,5.25,6.25,medium,low,6,namesilo,,,
+70b31432-b104-4018-b4a6-b5e4762f4ec3,bflat.trade,available,5.25,6.25,medium,low,6,namesilo,,,
 289765ed-faf2-4bfc-8fea-5d5b8006ece5,cockmaster.trade,available,5.25,6.25,medium,low,10,namesilo,,,
 7605e2f7-534c-4f2e-8dd1-7bba35dfe253,makegood.trade,premium,437.5,,high,low,9,name.com,,,
-704f476c-37db-40e1-b32c-6cd679d5a3af,Blades.trade,premium,437.5,,medium,low,6,name.com,,,
+704f476c-37db-40e1-b32c-6cd679d5a3af,blades.trade,premium,437.5,,medium,low,6,name.com,,,
 7dbdd587-26e6-4d40-956b-6eeb69b66d5b,skyblue.trade,premium,437.5,62.5,medium,low,8,name.com,,,08/08/2026 03:14
 c0e30e5a-6a83-4e79-9c75-0acf738db3b2,improvize.trade,available,5.25,6.25,low,low,9,namesilo,,,
 49d6149a-089c-44c7-b66d-ffa7305d9f47,midget.trade,available,5.25,6.25,low,low,6,namesilo,,,08/08/2026 14:19
@@ -120,7 +119,7 @@ db3ff020-c1e4-4de8-9fd6-423458d83d87,letalone.trade,available,9.98,,medium,low,9
 14380c0c-4a24-4fed-b7c0-423da9e7f54c,compact.trade,premium,437.5,62.5,high,low,7,name.com,,,
 47b22faa-4c1f-48f6-98d9-957a48171a86,neighbour.trade,available,5.25,6.25,high,low,9,namesilo,,,
 603a969a-70f2-4251-ad87-891970eee614,achaean.trade,available,5.25,6.25,low,low,7,namesilo,,,
-c7a12cc6-13bc-4b42-9c7d-6dd747b67ddb,WestIndies.trade,available,5.25,6.25,low,low,11,namesilo,,,
+c7a12cc6-13bc-4b42-9c7d-6dd747b67ddb,westindies.trade,available,5.25,6.25,low,low,11,namesilo,,,
 3908d1b8-56cd-45fb-bc07-4ec6466d2fdc,gobothways.trade,available,5.25,6.25,medium,low,12,namesilo,,,
 85f7d4c1-3694-495a-8c85-18ce1d8374ad,undesirable.trade,available,5.25,6.25,high,low,11,namesilo,,,
 b7d6d3c2-c427-4d30-8190-2cb913e48919,diskbrake.trade,available,5.25,6.25,medium,low,10,namesilo,,,
@@ -200,7 +199,7 @@ c6a88eab-9b3c-43ed-b6e5-f1b6470d85a7,hanukah.trade,available,5.25,6.25,high,low,
 0aad7d1e-0e52-4b33-9c7c-c9f7533b5e8e,assentient.trade,available,5.25,6.25,low,low,10,namesilo,,,07/08/2026 05:48
 d18c3d4d-2633-46a8-87f6-8a03d683ada5,descend.trade,available,5.25,6.25,high,low,7,namesilo,,,
 5aeb291c-bfc6-48db-8172-cc0f2745d0c5,afflicted.trade,available,5.25,6.25,low,low,9,namesilo,,,
-dd547528-24a0-4e3f-862f-b136b8ce6254,midFebruary.trade,available,9.98,,high,low,12,namecheap,,,
+dd547528-24a0-4e3f-862f-b136b8ce6254,midfebruary.trade,available,9.98,,high,low,12,namecheap,,,
 29c61e43-de78-4fdb-8bd0-98384c79b5f4,fidgety.trade,available,5.25,6.25,low,low,7,namesilo,,,05/08/2026 20:32
 3e953848-5631-4e38-a52e-ecee83b4b18f,avellan.trade,available,5.25,6.25,low,low,7,namesilo,,,07/08/2026 22:24
 4edebd76-d00a-4c87-a89e-09eafc129181,acidulous.trade,available,5.25,6.25,low,low,9,namesilo,,,
@@ -225,7 +224,7 @@ cb8733c9-3ee4-41c9-8fb6-abe33d0aef2a,feeling.trade,available,,,high,low,7,,,,
 01f7c4c6-4206-4a03-b63e-0796669c6c6e,burden.trade,available,5.25,6.25,medium,low,6,namesilo,,,
 5a90b646-8334-4238-add1-858b0c9aedea,prototypal.trade,available,5.25,6.25,low,low,10,namesilo,,,06/08/2026 15:37
 c74e95b5-1deb-4b1f-83d1-ae6c853cee16,june.trade,resell,9.98,,high,low,4,Dynadot Inc,02/04/2026 13:12,02/04/2027 13:12,
-94e3eec5-b3f3-4184-a25b-f43474cb0cff,technically.trade,available,5.25,6.25,low,low,11,namesilo,,,15/09/2026 06:00
+94e3eec5-b3f3-4184-a25b-f43474cb0cff,technically.trade,available,5.25,6.25,low,low,11,namesilo,,,19/09/2026 04:54
 6c62ecec-55fb-497e-bac4-efaed1edd2e4,oatmealcake.trade,available,5.25,6.25,high,low,12,namesilo,,,
 34e73a46-c2b3-4e40-9a3e-ac92eff859ba,whogoesthere.trade,available,9.98,,low,low,14,namecheap,,,
 2fb8d9f9-eb30-4663-87d3-e7b26eeaa389,demoniacal.trade,available,5.25,6.25,low,low,10,namesilo,,,
@@ -238,7 +237,7 @@ ddef246d-b474-4c38-93e4-f3db0dd96b12,kitchen.trade,resell,,,medium,low,7,"Spaces
 c23d8003-8002-4027-a8a7-5c6695d8bb14,bloodpressure.trade,available,9.98,,high,low,14,namecheap,,,
 88f1d9a1-4ea4-400d-83a2-5c9b3eebc819,sunbeam.trade,premium,437.5,,high,low,7,name.com,,,
 b8e32eb2-5f5b-4dcb-b4a6-1e8a82403dbf,energy.trade,resell,,,medium,medium,6,Porkbun,29/07/2019 12:42,29/07/2030 12:42,04/09/2026 13:30
-4f1b1448-e141-4ab0-9ca2-9ec486fb6966,StudioCity.trade,premium,437.5,,medium,low,11,name.com,,,
+4f1b1448-e141-4ab0-9ca2-9ec486fb6966,studiocity.trade,premium,437.5,,medium,low,11,name.com,,,
 0fbe0324-e956-474c-b587-8b9967730f60,annalistic.trade,available,5.25,6.25,low,low,10,namesilo,,,
 3027f28f-7301-4a4e-8641-0bd2433e6eb7,tone.trade,premium,437.5,,medium,low,4,name.com,,,
 c9df0a00-cdcb-4cfc-a1ed-dfc03fccc554,stagingarea.trade,available,5.25,6.25,medium,low,12,namesilo,,,
@@ -254,7 +253,7 @@ c665cb38-d4b0-4b6a-83e5-8980162bbc30,amusing.trade,available,5.98,9.98,low,low,7
 9a5530ae-b3c6-412b-bcce-64ccea22b54a,continual.trade,available,5.25,6.25,medium,low,9,namesilo,,,
 39b84f5c-c87d-467f-a2a4-4f2febb8e587,knock.trade,premium,437.5,,medium,low,5,name.com,,,
 0c2327a6-4740-4857-8560-c841dbf51f7e,definitively.trade,available,5.25,6.25,medium,low,12,namesilo,,,
-55337302-c547-41f3-918e-929af5e537d6,LLP.trade,premium,625,,high,low,3,name.com,,,
+55337302-c547-41f3-918e-929af5e537d6,llp.trade,premium,625,,high,low,3,name.com,,,
 37bc0818-5b4d-4958-8a9f-6d62dae62bf5,porticoed.trade,available,5.25,6.25,low,low,9,namesilo,,,
 f81951d8-a207-4a30-a7bc-79a0baf5d40a,nowadays.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 7dee944f-62ae-4c38-9c49-5e5257a8a4a0,saveit.trade,premium,437.5,,medium,low,7,name.com,,,
@@ -264,7 +263,7 @@ cd0ea140-d09c-4699-8835-f22e84744a66,marble.trade,resell,,,medium,low,6,"Spacesh
 f1ab8823-9746-440b-a904-c84702c29702,bore.trade,premium,437.5,62.5,high,low,4,name.com,,,
 b6d08e45-343b-46aa-8a96-74d44e60ba39,bedridden.trade,available,5.25,6.25,low,low,9,namesilo,,,09/08/2026 07:02
 66ec60a9-76c7-42b5-801f-c0b90f75b128,mopeabout.trade,available,5.25,6.25,low,low,10,namesilo,,,
-f714f924-6944-4f33-9138-e42a39f3e782,NewRochelle.trade,premium,125,,low,low,12,name.com,,,
+f714f924-6944-4f33-9138-e42a39f3e782,newrochelle.trade,premium,125,,low,low,12,name.com,,,
 733c5fa4-cbef-4e06-9529-a8250b532fbb,bass.trade,premium,437.5,,medium,low,4,name.com,,,
 d5cb369f-61d8-440f-92f3-c3db8660d4bd,welfare.trade,resell,5.25,6.25,medium,low,7,Dynadot Inc,14/05/2026 17:40,14/05/2027 17:40,08/09/2026 03:13
 54487b58-74bd-45f5-b14a-a293f299b51f,turnahair.trade,available,9.98,,low,low,11,namecheap,,,
@@ -297,7 +296,7 @@ eb8f99a2-4fec-4b0d-9662-6bbbeac59451,bowls.trade,available,9.98,,medium,low,5,na
 8838f876-c3e0-4acb-92c7-0b324eb331f7,anagogical.trade,available,5.25,6.25,low,low,10,namesilo,,,
 b4d0624a-c8aa-4749-89a7-d2f09b673628,obtained.trade,available,5.25,6.25,low,low,8,namesilo,,,
 e609d625-8ad3-475d-8e46-aa52d5ef2cbe,decade.trade,premium,437.5,,high,low,6,name.com,,,
-7c227888-431c-49a3-8ff1-e809250cc5ab,BJP.trade,premium,625,,medium,low,3,name.com,,,
+7c227888-431c-49a3-8ff1-e809250cc5ab,bjp.trade,premium,625,,medium,low,3,name.com,,,
 e25c8396-8a2b-4ad7-adb8-776bc2e2a8c2,diversity.trade,available,5.25,6.25,high,low,9,namesilo,,,
 36f007b5-c324-4288-be49-82caae3e3bef,alkaliser.trade,available,5.25,6.25,low,low,9,namesilo,,,
 8dba30f2-9c18-46ee-976c-c933ca9f3d73,dye.trade,premium,625,,medium,low,3,name.com,,,
@@ -314,7 +313,7 @@ d3b37bd2-ad9c-41f0-a679-80297f98eb55,backward.trade,available,5.25,6.25,high,low
 b93decda-1009-4345-b5f5-543ad0840f42,cometoaclose.trade,available,5.25,6.25,high,low,15,namesilo,,,
 980e48dd-1cf3-43b7-bd7d-1de4d97433ac,grandma.trade,premium,437.5,,high,low,7,name.com,,,
 3c8fc30b-83f6-4e3e-9fa2-539129e9a9be,commercially.trade,available,9.98,,medium,low,12,namecheap,,,
-e0daa997-d12f-4a9f-b446-c52b980be8fb,Onions.trade,available,5.25,6.25,medium,low,6,namesilo,,,
+e0daa997-d12f-4a9f-b446-c52b980be8fb,onions.trade,available,5.25,6.25,medium,low,6,namesilo,,,
 7892d25d-32c1-488b-96d5-6fbbe663bb49,issuedate.trade,available,5.25,6.25,high,low,10,namesilo,,,
 08e118ee-6ff2-4cdc-b7b7-6aa7b6877fb1,faith.trade,resell,,,high,low,5,Porkbun,25/06/2024 11:51,25/06/2026 11:51,
 e1fff10c-9567-4f82-bfbc-074afab0c2cf,wakeup.trade,premium,437.5,62.5,medium,low,7,name.com,,,07/08/2026 23:56
@@ -364,7 +363,7 @@ bdeed258-ed14-44b2-b99c-4d6a36b17332,endup.trade,available,5.25,6.25,high,low,6,
 552bf8c4-2968-4fa3-9fc5-525d70d52f5e,hooked.trade,premium,437.5,,medium,low,6,name.com,,,
 5bc2e719-8eb3-42fd-ab28-afe00debf51e,aliehasnolegs.trade,available,9.98,,medium,low,17,namecheap,,,
 a30ec694-523c-4fa0-bf7b-b7d44d9842f0,carrie.trade,premium,437.5,,high,low,6,name.com,,,
-634434ce-83ca-4776-ba93-97f7bfe082ad,TraverseCity.trade,available,9.98,,low,low,13,namecheap,,,
+634434ce-83ca-4776-ba93-97f7bfe082ad,traversecity.trade,available,9.98,,low,low,13,namecheap,,,
 f714c99d-9194-4a6a-921f-72e41f167f2d,acre.trade,premium,437.5,,medium,low,4,name.com,,,
 8e5c6751-c8d0-4d54-83b2-be1295339172,almond.trade,resell,,,medium,low,6,Dynadot Inc,21/11/2025 01:59,21/11/2026 01:59,
 dfc5e06b-58b7-4fe0-be3a-1fa0f6b20ecc,trading.trade,premium,6250,,high,low,7,name.com,,,
@@ -393,7 +392,7 @@ abb21a72-653a-4ee9-a844-e8491b3e2264,agamous.trade,available,5.25,6.25,low,low,7
 dc214829-920b-47aa-816b-980127bc60d5,without.trade,available,9.98,,high,low,7,namecheap,,,
 925f5e12-b897-4871-acd9-896a2adbce44,orangejuice.trade,available,5.25,6.25,medium,low,12,namesilo,,,
 813f3b26-c9bd-4be3-a180-3c3abca40118,backwardslash.trade,available,5.25,6.25,medium,low,14,namesilo,,,
-5ad4309e-47dd-478a-89fb-1caf681692f5,press.trade,resell,,,medium,low,5,Porkbun,29/07/2019 13:14,29/07/2026 13:14,
+5ad4309e-47dd-478a-89fb-1caf681692f5,press.trade,resell,,,medium,low,5,"Spaceship, Inc.",29/07/2019 13:14,29/07/2027 13:14,20/09/2026 03:37
 0e578419-b0a3-47a5-97c9-30100d0c21ba,cane.trade,premium,437.5,,medium,low,4,name.com,,,
 4608ca88-e5e6-47e8-83bd-f2e30dd2f945,smartly.trade,premium,437.5,,high,low,7,name.com,,,
 e519c719-1a72-4fc8-9324-ce11e6d23316,fog.trade,premium,625,,high,low,3,name.com,,,
@@ -405,7 +404,7 @@ e519c719-1a72-4fc8-9324-ce11e6d23316,fog.trade,premium,625,,high,low,3,name.com,
 da0748c8-1626-40de-ace2-9196138f1575,adroit.trade,premium,437.5,62.5,high,low,6,name.com,,,
 325b9905-94cf-4f1e-afea-5fe2fe9922c3,happyhour.trade,premium,437.5,,high,low,10,name.com,,,
 eeb86574-554b-4cab-9c1c-c03c83159114,forestfire.trade,available,5.25,6.25,medium,low,11,namesilo,,,
-0c9544a6-205b-478d-9025-720d32a7e0d4,Sony.trade,premium,437.5,,high,medium,4,name.com,,,
+0c9544a6-205b-478d-9025-720d32a7e0d4,sony.trade,premium,437.5,,high,medium,4,name.com,,,
 2b05be96-06ab-4db8-908b-3e37cbd10b32,moving.trade,available,5.25,6.25,high,low,6,namesilo,,,
 a9925994-f432-497b-892c-cf9cee652a06,rattleabout.trade,available,5.25,6.25,low,low,12,namesilo,,,
 d7ffc267-1ca7-4073-975c-c861574bc195,motivate.trade,premium,437.5,,high,low,8,name.com,,,
@@ -432,7 +431,7 @@ b3572733-6882-423e-9f3b-24eb30258260,webbrowser.trade,available,5.25,6.25,high,l
 f828b281-40be-4dcb-9664-142feb2553d6,flooded.trade,premium,437.5,62.5,low,low,7,name.com,,,08/08/2026 00:23
 a9897ff8-295f-423f-a883-a938a4030a29,succinct.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 0da3a22d-3da1-45a6-85dc-976069c80c5a,ecological.trade,premium,12500,,high,low,10,name.com,,,
-09f510bf-e5d2-4a9b-bc37-5475697e4977,SurfCity.trade,premium,437.5,,medium,low,9,name.com,,,
+09f510bf-e5d2-4a9b-bc37-5475697e4977,surfcity.trade,premium,437.5,,medium,low,9,name.com,,,
 39399880-df14-4534-8e1e-6b5e9e62062a,meter.trade,premium,437.5,,high,low,5,name.com,,,
 191204ba-9aaf-4d95-adf2-cbe5b2bf8659,spirited.trade,premium,437.5,,high,low,8,name.com,,,
 d0d82db6-5105-4fa2-829d-4d5f771665fb,leaveout.trade,available,5.25,6.25,medium,low,9,namesilo,,,
@@ -440,25 +439,25 @@ b375c981-083c-4c78-907e-1752de403380,basiscopic.trade,available,5.25,6.25,low,lo
 51f9449d-ceae-445f-97b2-d45ed9657fec,altricial.trade,available,5.25,6.25,low,low,9,namesilo,,,
 2c276c53-281e-4f92-b152-2a1a8dbcbb0c,landing.trade,premium,437.5,,high,low,7,name.com,,,
 51dcac4c-d107-4292-99c6-9ae9e1459fda,photographicmemory.trade,available,5.25,6.25,high,low,19,namesilo,,,
-63244b1c-f697-4554-a54f-1cc470194483,Lordloveyou.trade,available,9.98,,medium,low,13,namecheap,,,
+63244b1c-f697-4554-a54f-1cc470194483,lordloveyou.trade,available,9.98,,medium,low,13,namecheap,,,
 f9b55086-5f9d-48df-b0ec-833ca9c14b6c,them.trade,premium,437.5,,medium,low,4,name.com,,,
 9ce88051-f60b-429f-9b26-23959b5a6e11,childprostitution.trade,available,5.25,6.25,medium,low,18,namesilo,,,
-f7ffa0a0-07bd-4d7a-9ebf-f2c8d45c3ef3,simple.trade,resell,,,high,medium,6,"NameCheap, Inc.",29/08/2019 09:13,29/08/2026 09:13,
+f7ffa0a0-07bd-4d7a-9ebf-f2c8d45c3ef3,simple.trade,resell,,,medium,low,6,"Spaceship, Inc.",29/08/2019 09:13,29/08/2027 09:13,19/09/2026 05:32
 8a99a29f-7914-4fb7-91ad-d94253acd576,thirdperson.trade,available,5.25,6.25,low,low,12,namesilo,,,
 ff93c02c-8746-488b-83bc-def13ddd120e,motherfukkah.trade,available,5.25,6.25,medium,low,12,namesilo,,,
 7f6a4b9a-e12d-474f-9625-bbf94ba661de,comfortably.trade,available,5.25,6.25,medium,low,11,namesilo,,,
 ca6eca08-b9ee-4d4f-a3a9-af6841a1ac38,simpler.trade,premium,625,,medium,low,7,name.com,,,
 1432fa08-421e-4dec-a65b-093c60b2d68e,pack.trade,premium,125,37.99,high,low,4,name.com,,,
-c72e94ec-9e1a-484a-9e8d-17b78af3dff3,HillCity.trade,available,5.25,6.25,medium,low,9,namesilo,,,
+c72e94ec-9e1a-484a-9e8d-17b78af3dff3,hillcity.trade,available,5.25,6.25,medium,low,9,namesilo,,,
 a26e1173-d42a-4f3a-a145-5612f9bb5c55,tragic.trade,premium,437.5,,high,low,6,name.com,,,
 d619aef9-6c3b-4afb-9408-daeb78bfd30f,anaerobic.trade,available,5.25,6.25,low,low,9,namesilo,,,
-cd769cb9-43cb-4065-8881-46672dfeb843,Christmastree.trade,available,9.98,,high,low,14,namecheap,,,
+cd769cb9-43cb-4065-8881-46672dfeb843,christmastree.trade,available,9.98,,high,low,14,namecheap,,,
 1cde8b50-f062-4630-9a0d-59ac05bf9937,dishup.trade,available,5.25,6.25,high,low,7,namesilo,,,
 f95e6417-f647-49a1-8cce-b7986762e9d6,obtain.trade,premium,437.5,,high,low,6,name.com,,,
 b5123f1f-7b92-4f77-818a-f0ea1f6e6231,gummyworm.trade,available,5.25,6.25,high,low,10,namesilo,,,
 889a39cd-8995-436b-97af-9f31acf6f9b0,sixer.trade,premium,437.5,62.5,low,low,5,name.com,,,
 91f51c62-1428-4ae2-9f8f-9b1dfb9ce142,mixedup.trade,available,5.25,6.25,low,low,8,namesilo,,,07/08/2026 12:12
-a84f1858-3b59-4af8-b59e-ae08ab02d0d3,Irestmycase.trade,premium,437.5,,medium,low,14,name.com,,,
+a84f1858-3b59-4af8-b59e-ae08ab02d0d3,irestmycase.trade,premium,437.5,,medium,low,14,name.com,,,
 6c79ff94-4322-4db7-ac52-edf5603ec13e,spiderlike.trade,available,5.25,6.25,low,low,10,namesilo,,,06/08/2026 11:52
 00bde7f5-63e5-4019-af9e-8b3134146853,anarchic.trade,available,5.25,6.25,low,low,8,namesilo,,,
 95320b66-749c-42e9-bdf4-830b2ce1dd04,lastly.trade,available,9.98,,medium,low,6,namecheap,,,
@@ -534,7 +533,7 @@ b67a0849-4f91-49ef-aa0f-bc23735be870,pickuptruck.trade,available,5.25,6.25,low,l
 5d73c7ac-36c7-40d3-af88-6f53ee03776b,clv.trade,premium,625,81.25,low,low,3,name.com,,,
 62e78b9f-1ed7-40ee-afb8-f5af1c2de506,autocratic.trade,available,5.25,6.25,low,low,10,namesilo,,,07/08/2026 18:52
 a9e81644-ff28-41fa-ba67-5e7cc092bd7f,ricepaper.trade,available,5.25,6.25,medium,low,10,namesilo,,,
-5704c851-a5e8-4a28-9d2f-2bafc153ee2b,cup.trade,premium,640,77.35,medium,low,3,namesilo,,,08/09/2026 16:35
+5704c851-a5e8-4a28-9d2f-2bafc153ee2b,cup.trade,premium,650,84.5,medium,low,3,namecheap,,,19/09/2026 14:42
 1a1fe68d-bc6b-433d-8356-20c2279a0c4b,knowing.trade,premium,437.5,,high,low,7,name.com,,,
 57652bd7-25ff-454a-a9e1-c0fdd157bd3f,theones.trade,available,5.25,6.25,low,low,8,namesilo,,,
 fdeee542-6942-4643-bce7-6d3b468772e1,sort.trade,available,5.25,6.25,high,low,4,namesilo,,,
@@ -552,10 +551,10 @@ b128378e-e77f-4e00-a9c6-4ed2c94afde4,supposedly.trade,available,5.25,6.25,medium
 e7fe504d-16f7-4891-aeb1-1aa384770a13,whatittakes.trade,premium,437.5,,low,low,13,name.com,,,
 fb59cc6f-6080-419b-b5e2-d561dfc3dec3,amitotic.trade,available,5.25,6.25,low,low,8,namesilo,,,
 f86c089b-b7c0-4aee-8102-b8d5be6b9397,tailend.trade,available,5.25,6.25,low,low,8,namesilo,,,09/08/2026 11:36
-b77998a9-cb37-4aa8-88a5-6719480d71c1,heaven.trade,resell,,,high,low,6,Porkbun,21/07/2020 12:14,21/07/2026 12:14,
+b77998a9-cb37-4aa8-88a5-6719480d71c1,heaven.trade,resell,,,high,low,6,"Spaceship, Inc.",21/07/2020 12:14,21/07/2027 12:14,19/09/2026 16:13
 358e1f50-e7ab-46fe-8b3b-f56ac5f7c39d,moderator.trade,premium,437.5,,high,low,9,name.com,,,
 f51ff840-6bf0-4816-9ce4-05b01ac3a84b,deepest.trade,available,9.98,,medium,low,7,namecheap,,,
-93857c46-9f8d-4a29-9335-7ddb6f372d13,Skype.trade,premium,437.5,,high,medium,5,name.com,,,
+93857c46-9f8d-4a29-9335-7ddb6f372d13,skype.trade,premium,437.5,,high,medium,5,name.com,,,
 c1ba01e5-68bf-4a73-a04e-f1df8902f211,ballroom.trade,premium,437.5,,high,low,8,name.com,,,
 e31de07d-9dfd-4c8c-be12-cbd2e9365988,arsenical.trade,available,5.25,6.25,low,low,9,namesilo,,,06/08/2026 22:18
 83efc9b5-ff20-421b-b8bd-477cadf7ec8b,fortyfive.trade,available,5.25,6.25,low,low,10,namesilo,,,
@@ -563,7 +562,7 @@ e31de07d-9dfd-4c8c-be12-cbd2e9365988,arsenical.trade,available,5.25,6.25,low,low
 630f997a-1bd2-497d-ae71-1cc4e2dfa56c,leg.trade,premium,625,,high,low,3,name.com,,,
 34359a76-44b1-4dd3-a7b7-10327ae217e8,nightlong.trade,available,5.25,6.25,low,low,9,namesilo,,,
 f039e975-b088-46e6-91ae-4b567b570a3d,arced.trade,available,5.25,6.25,low,low,5,namesilo,,,06/08/2026 14:28
-b5555420-6b33-41ab-91e4-83b09c596424,Idoubtit.trade,available,5.25,6.25,medium,low,10,namesilo,,,
+b5555420-6b33-41ab-91e4-83b09c596424,idoubtit.trade,available,5.25,6.25,medium,low,10,namesilo,,,
 df4339b4-eba3-49ae-a523-4361418be544,whisking.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 6c1afd7c-508e-4adb-b9a1-72469071c5d7,aperient.trade,available,5.25,6.25,low,low,8,namesilo,,,05/08/2026 22:09
 bcb3e942-45c7-45ab-bd99-5513b83f7684,childlabour.trade,available,5.25,6.25,medium,low,12,namesilo,,,
@@ -594,7 +593,7 @@ cbacb051-119a-47d3-b062-26375b6fe7af,saveas.trade,available,5.25,6.25,medium,low
 a1a94a38-6782-4b4b-8494-c7f0dadbe83d,heedful.trade,available,5.25,6.25,low,low,7,namesilo,,,
 a3cf6b5f-e0ad-41f3-979c-e6b84c039e64,wouldlike.trade,available,5.25,6.25,low,low,10,namesilo,,,
 37a6844f-3157-4a6b-874a-ae7855343906,ohoh.trade,available,5.25,6.25,high,low,5,namesilo,,,
-a8a00434-ecd4-4625-b3f8-50026131ec15,Spartacus.trade,premium,437.5,,medium,low,9,name.com,,,
+a8a00434-ecd4-4625-b3f8-50026131ec15,spartacus.trade,premium,437.5,,medium,low,9,name.com,,,
 ed40b854-386f-4af5-a4fe-97e0c5149433,btw.trade,premium,625,,high,low,3,name.com,,,
 180bbcec-043b-4710-8ac3-60c11857f920,freshair.trade,premium,437.5,,high,low,9,name.com,,,
 200539fb-3a99-4029-96f0-1fbcf9903604,else.trade,available,9.98,,high,low,4,namecheap,,,
@@ -613,7 +612,7 @@ af9d85ea-0ddb-4213-b0ae-1b5f21ff4ce4,youngatheart.trade,premium,437.5,,low,low,1
 dec57a07-47f4-429d-885a-7b8a30e19ef3,depress.trade,available,5.25,6.25,medium,low,7,namesilo,,,
 db65c93e-3dcb-467e-a6b5-ae2d732ab0d7,ruboff.trade,premium,437.5,,low,low,7,name.com,,,
 ae6514aa-f65a-4251-85af-acd519261df4,magical.trade,premium,3125,,high,low,7,name.com,,,
-149e20e5-bb14-4fec-befd-25ae9f7ac5fe,JusticeofthePeace.trade,available,5.25,6.25,medium,low,20,namesilo,,,
+149e20e5-bb14-4fec-befd-25ae9f7ac5fe,justiceofthepeace.trade,available,5.25,6.25,medium,low,20,namesilo,,,
 46226759-9600-4ae6-be5e-6733b57014f5,means.trade,available,9.98,,high,low,5,namecheap,,,
 0cbe9318-e856-4fd6-b3bb-7cc82fc277d1,dismissed.trade,available,9.98,,medium,low,9,namecheap,,,
 f6d84db2-c2d1-43ce-b238-e08d6bfd902f,chickendance.trade,available,9.98,,high,low,13,namecheap,,,
@@ -627,7 +626,7 @@ c9951d95-9043-48cb-95fb-6de1032344ae,answering.trade,available,9.98,,high,low,9,
 598eff1c-9fae-4d87-8dc6-7de15a69a523,tyrannical.trade,available,5.98,9.98,low,low,10,namecheap,,,07/08/2026 19:12
 1b5158c6-15ba-4696-8ecc-225d1a37cf09,ripe.trade,premium,437.5,,medium,low,4,name.com,,,
 db147989-f8d0-4e43-8e46-c72e0f1ce549,principled.trade,available,5.25,6.25,high,low,10,namesilo,,,
-1d772cb5-4c31-481d-bb37-c9fed7846f3b,Susan.trade,available,5.25,6.25,high,low,5,namesilo,,,
+1d772cb5-4c31-481d-bb37-c9fed7846f3b,susan.trade,available,5.25,6.25,high,low,5,namesilo,,,
 7cf0d467-0028-4ace-9115-83fecd9cf4f0,buns.trade,available,5.25,6.25,low,low,4,namesilo,,,09/08/2026 10:54
 ca31e33d-3a84-4b50-ae00-faaf7e9fc865,affiliated.trade,premium,437.5,62.5,low,low,10,name.com,,,
 d645a4ec-99f7-4309-b168-033c091890cc,stan.trade,premium,437.5,,high,low,4,name.com,,,
@@ -640,7 +639,7 @@ b43f4aca-001b-461d-b2c1-3f5d79e82eb4,streaming.trade,premium,455,65,high,low,9,n
 4a54bc3d-f2b8-486d-b726-22bac510de86,clown.trade,premium,437.5,,high,low,5,name.com,,,
 5428a207-a71b-448e-8d73-0530d3d07914,techweek.trade,premium,437.5,,medium,low,9,name.com,,,
 6cc45c3f-0280-4d06-9195-67540db36b58,broached.trade,available,5.25,6.25,low,low,8,namesilo,,,
-163ef13c-e51a-4de4-bf57-8a5182e6a059,Greg.trade,available,5.25,6.25,medium,low,4,namesilo,,,
+163ef13c-e51a-4de4-bf57-8a5182e6a059,greg.trade,available,5.25,6.25,medium,low,4,namesilo,,,
 2c56800b-555d-4f38-a711-e98d8eeaf7f9,solicit.trade,available,9.98,,high,low,7,namecheap,,,
 d555c04d-32c9-4a60-9ed7-ed8cad99c299,abovenamed.trade,available,5.25,6.25,medium,low,11,namesilo,,,
 60b937cc-3146-4075-973d-2cfed214427d,curse.trade,premium,437.5,62.5,high,low,5,name.com,,,
@@ -664,7 +663,7 @@ eb906dcd-c4cb-400e-8cec-6784927bae05,whiz.trade,premium,437.5,62.5,high,low,4,na
 c8ba64f1-380a-4063-bcc5-3dfe5ccb18ad,putterabout.trade,available,5.25,6.25,low,low,12,namesilo,,,
 852ae2bd-3399-4997-9cae-e25c48b43545,tvset.trade,available,9.98,,high,low,6,namecheap,,,
 6f7c9213-8861-4414-a159-0c1c1cbc78cc,seasonably.trade,available,5.25,6.25,low,low,10,namesilo,,,06/08/2026 10:03
-eb4064d2-5449-4053-884f-b566e05e17eb,SouthAfrica.trade,available,,,low,low,12,,,,
+eb4064d2-5449-4053-884f-b566e05e17eb,southafrica.trade,available,,,low,low,12,,,,
 d38d2c63-0176-4a49-a487-135e0bf68c1d,brainwash.trade,premium,437.5,,high,low,9,name.com,,,
 e617363b-4469-4125-af56-eee11ef835fd,acarpelous.trade,available,5.25,6.25,low,low,10,namesilo,,,
 40f48864-7deb-4276-ac99-723a8352c77e,ear.trade,premium,625,,high,low,3,name.com,,,
@@ -674,7 +673,7 @@ ca9daef8-5b62-4e50-bba7-766584515108,pencilpouch.trade,available,5.25,6.25,high,
 b42483ce-0a86-4550-9b6e-ec43e4396af7,obtuse.trade,premium,437.5,62.5,high,low,6,name.com,,,
 245dd8a7-c498-449f-b03d-fcd150d1ab17,anagram.trade,premium,437.5,,high,low,7,name.com,,,
 ce2b2b6d-9eb0-474e-beb3-aacc4984edc0,musicgame.trade,available,5.25,6.25,high,low,10,namesilo,,,
-a3e5a1aa-634a-4762-8b77-178e09b56619,Californiakilowatt.trade,available,5.25,6.25,high,low,19,namesilo,,,
+a3e5a1aa-634a-4762-8b77-178e09b56619,californiakilowatt.trade,available,5.25,6.25,high,low,19,namesilo,,,
 daec0559-d138-4406-a4d6-067ba2b54d37,amino.trade,premium,437.5,62.5,low,low,5,name.com,,,
 fe8b1c8a-30c9-4ba1-83bd-c4f1fd21f717,angulate.trade,premium,437.5,62.5,low,low,8,name.com,,,
 4201c1a4-dcb9-4dbe-9063-4abbbf5404c4,banner.trade,available,,,medium,low,6,,,,
@@ -685,11 +684,11 @@ fe8b1c8a-30c9-4ba1-83bd-c4f1fd21f717,angulate.trade,premium,437.5,62.5,low,low,8
 24abe4ff-3b3c-4b03-8578-7d62f0b3c80d,armillary.trade,available,5.25,6.25,low,low,9,namesilo,,,06/08/2026 19:44
 6e383ddf-b505-4edc-b300-31ec51578339,reflexcamera.trade,available,5.25,6.25,medium,low,13,namesilo,,,
 37733082-df13-4371-956c-31a36465409e,mydearfellow.trade,available,5.25,6.25,low,low,14,namesilo,,,
-0188ec49-4cf4-41c3-bcb0-1b6d99cd66b7,plus.trade,resell,,,high,low,4,Porkbun,29/07/2019 12:46,29/07/2026 12:46,
+0188ec49-4cf4-41c3-bcb0-1b6d99cd66b7,plus.trade,resell,,,high,low,4,"Spaceship, Inc.",29/07/2019 12:46,29/07/2027 12:46,20/09/2026 03:36
 dfb6702c-7502-4e90-9c8e-1d55716da5e9,competing.trade,premium,1107,116,medium,low,9,namesilo,,,
 17600fcb-21c3-4ded-8838-5643be983835,again.trade,available,5.25,6.25,high,low,5,namesilo,,,
 11b05329-b775-4b99-ad7f-3a1a3f0a6b77,wasnt.trade,available,5.25,6.25,medium,low,5,namesilo,,,
-68865b17-ce56-40f9-ac4d-db2e12307581,WhiteSox.trade,premium,437.5,,medium,medium,9,name.com,,,
+68865b17-ce56-40f9-ac4d-db2e12307581,whitesox.trade,premium,437.5,,medium,medium,9,name.com,,,
 70e1ce5b-8b94-4c3b-b488-9500b5d92628,medal.trade,premium,437.5,,high,low,5,name.com,,,
 7f810d2f-27b7-425c-b334-4b105a5b440d,beads.trade,available,5.25,6.25,high,low,5,namesilo,,,
 db582797-3812-4043-88b3-91ca4ab002dc,devour.trade,premium,437.5,,high,low,6,name.com,,,
@@ -703,7 +702,7 @@ c6bff562-48b1-41f6-991a-80b314d37fe3,irrational.trade,available,5.25,6.25,high,l
 6dcbc3c4-0c78-4882-b245-b36c97291f10,tipped.trade,premium,437.5,62.5,low,low,6,name.com,,,07/08/2026 13:33
 153ecd66-a0af-41f9-8773-0abc3ef8c893,bigben.trade,premium,437.5,,high,low,7,name.com,,,
 6c929eb1-e99c-45b7-a4f6-9121da1f8c44,prolific.trade,premium,437.5,,high,low,8,name.com,,,
-6ae97ecb-5896-420e-b3e9-307e456bd61d,HIVvirus.trade,available,5.25,6.25,medium,low,9,namesilo,,,
+6ae97ecb-5896-420e-b3e9-307e456bd61d,hivvirus.trade,available,5.25,6.25,medium,low,9,namesilo,,,
 ecc7c390-1239-4642-854d-c6e8bd41c4ff,unkeyed.trade,available,5.25,6.25,low,low,7,namesilo,,,07/08/2026 13:50
 4a46bd2e-8ac1-4c14-b9dc-d3a8e0a40ed3,reported.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 5b0856d9-c3e8-44a1-a011-5fa4893418a7,creatively.trade,available,9.98,,medium,low,10,namecheap,,,
@@ -715,11 +714,11 @@ d12d4289-60a4-461d-a84d-c9bf41473912,armored.trade,premium,437.5,,medium,low,7,n
 f067ce9f-668c-4077-8127-98347a908bf4,choose.trade,premium,116,29.5,high,low,6,namesilo,,,
 29440ad3-d8d3-453f-b9d1-92444bcc81ce,everybody.trade,premium,6250,,medium,low,10,name.com,,,
 dc44da4f-df9c-4892-b775-c0dbdbe06699,delightful.trade,premium,437.5,62.5,medium,low,10,name.com,,,
-edf35ded-b5a8-43f0-bb54-ff1919cd1aec,Frenchonionsoup.trade,available,9.98,,high,low,17,namecheap,,,
+edf35ded-b5a8-43f0-bb54-ff1919cd1aec,frenchonionsoup.trade,available,9.98,,high,low,17,namecheap,,,
 a5bf2692-d2ca-4286-b72e-6e3b413a9db1,youwin.trade,premium,437.5,,low,low,7,name.com,,,
 e5dc0f1c-b82d-419d-93e5-ce6264906a4c,jamesbond.trade,premium,437.5,,high,low,10,name.com,,,
 fb0c3f16-64fa-4d94-b269-af3978c2940f,farmer.trade,premium,1107,116,medium,low,6,namesilo,,,08/09/2026 06:02
-305323c5-9222-45d1-945a-d6138a502baf,BigFour.trade,available,5.25,6.25,medium,low,8,namesilo,,,
+305323c5-9222-45d1-945a-d6138a502baf,bigfour.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 02b44b04-67b7-4a34-8455-661c0d3dd0da,jumping.trade,available,5.25,6.25,medium,low,7,namesilo,,,08/09/2026 06:49
 b8d2f258-a0ac-4121-96b5-a2d3a418da2e,towheaded.trade,available,5.25,6.25,low,low,9,namesilo,,,07/08/2026 01:49
 ed44b151-ccf1-4c7a-9e8e-c9a32df1afe0,attender.trade,premium,437.5,62.5,low,low,8,name.com,,,07/08/2026 15:17
@@ -728,7 +727,7 @@ ed44b151-ccf1-4c7a-9e8e-c9a32df1afe0,attender.trade,premium,437.5,62.5,low,low,8
 59501f1b-b48e-4e6d-8aef-680ebbd603fe,underarrest.trade,available,5.25,6.25,medium,low,12,namesilo,,,
 9e277eef-fe5a-48dc-bfb2-25816ed16987,blond.trade,premium,437.5,,medium,low,5,name.com,,,
 eca7f78f-4613-4c22-b8ee-7556047b2084,megeneration.trade,available,5.25,6.25,medium,low,13,namesilo,,,
-07f812ab-bb32-4e03-8f6d-396b659c0f63,Igotmine.trade,available,5.25,6.25,medium,low,10,namesilo,,,
+07f812ab-bb32-4e03-8f6d-396b659c0f63,igotmine.trade,available,5.25,6.25,medium,low,10,namesilo,,,
 6be37238-e373-4d05-a547-528e1d3f3397,showed.trade,available,5.25,6.25,low,low,6,namesilo,,,
 29b0429e-e237-41d9-8445-7ae74a05fca6,the.trade,available,,,high,medium,3,,,,
 4f56b80d-b466-47b9-a10d-f3605e52612c,endall.trade,available,5.25,6.25,high,low,7,namesilo,,,
@@ -750,7 +749,7 @@ c74ac1d3-a014-4312-babc-7d72684decc4,promise.trade,premium,625,,high,low,7,name.
 37f9b751-7f4c-4218-9965-cb74fd94647b,blackcomedy.trade,available,5.25,6.25,high,low,12,namesilo,,,
 37ebff22-b511-4149-970a-98cbac90e04d,recreant.trade,available,5.25,6.25,low,low,8,namesilo,,,06/08/2026 03:55
 eb4704ac-73ec-4036-bc80-18ec7c5e6c2d,lost.trade,resell,,,medium,low,4,"NameCheap, Inc.",10/12/2024 20:50,10/12/2026 20:50,
-439a5b6a-45d2-46de-83af-4acc19fb1a3d,His.trade,premium,625,,high,low,3,name.com,,,
+439a5b6a-45d2-46de-83af-4acc19fb1a3d,his.trade,premium,625,,high,low,3,name.com,,,
 497209ec-0a6a-4951-836d-1956fd5fda9d,dress.trade,resell,,,high,low,5,Porkbun,20/08/2019 03:33,20/08/2026 03:33,
 c09de726-1530-4b53-bd41-f2564c01b6bb,lecture.trade,premium,437.5,,high,low,7,name.com,,,
 973ff0d3-b8d8-48e0-a8cc-f640f86da760,excited.trade,premium,437.5,,high,low,7,name.com,,,
@@ -774,22 +773,22 @@ eb59c97f-a034-445c-b441-ecbd1eb13755,obese.trade,premium,437.5,62.5,high,low,5,n
 6ceb80e1-4967-4ac2-8f74-e675212c4f1c,halo.trade,available,,,high,low,4,,,,
 0bbe8acb-f8f6-40bb-8a83-e140bd5f0a37,bastardly.trade,available,5.25,6.25,low,low,9,namesilo,,,08/08/2026 23:53
 cab460ae-9c5f-457b-82a4-b46962be8054,prenatal.trade,available,9.98,,high,low,8,namecheap,,,
-61b8b83d-8dc3-4ded-ba03-e02e29fca712,ADS.trade,premium,625,,high,medium,3,name.com,,,
+61b8b83d-8dc3-4ded-ba03-e02e29fca712,ads.trade,premium,625,,high,medium,3,name.com,,,
 1af3583e-e23d-462e-ad9c-bb85d7329121,volume.trade,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",01/09/2022 09:23,01/09/2032 09:23,
 04eba83e-f6cc-495c-b9a2-2f025c34a686,grandson.trade,available,9.98,,high,low,8,namecheap,,,
 30a02d9b-054e-45b2-b8ba-55b59a931a12,conveyable.trade,available,5.25,6.25,low,low,10,namesilo,,,07/08/2026 06:24
 789aca21-f0a3-4304-a454-22c1a6946f2a,hindermost.trade,available,5.25,6.25,low,low,10,namesilo,,,08/08/2026 05:58
 baaef4b3-6825-449e-83ed-23d6f699cc93,two.trade,premium,625,81.25,high,low,3,name.com,,,
-b0672e10-a8de-4398-8ced-e55e7874ded6,Duracell.trade,premium,437.5,,high,low,8,name.com,,,
+b0672e10-a8de-4398-8ced-e55e7874ded6,duracell.trade,premium,437.5,,high,low,8,name.com,,,
 fcfdf076-1580-46e4-85e8-ee77429d4c67,gowith.trade,available,5.25,6.25,high,low,7,namesilo,,,
 bff51a5d-000a-49c3-9224-7e983d9d643f,abiding.trade,available,5.25,6.25,high,low,7,namesilo,,,
 3f0b0dcf-20fd-46f2-b34f-1d81aee18503,pubichair.trade,available,9.98,,low,low,10,namecheap,,,
 53b0aa50-08ec-433c-a49a-2bf7d7811654,legislative.trade,available,5.25,6.25,high,low,11,namesilo,,,
 ddc0be99-3a45-4825-8130-ac83966d7374,aquaphobic.trade,available,5.25,6.25,low,low,10,namesilo,,,06/08/2026 10:40
-4a1786eb-6381-491f-bb49-af76e7f67f88,restrict.trade,premium,448,53.92,low,low,8,namesilo,,,14/09/2026 04:21
+4a1786eb-6381-491f-bb49-af76e7f67f88,restrict.trade,premium,448,53.92,low,low,8,namesilo,,,19/09/2026 17:10
 4af60407-d3f6-41e7-a5dc-8a8d8bd17ced,detecting.trade,available,5.25,6.25,medium,low,9,namesilo,,,
 0902a211-a45b-4580-89b5-e1fa678df7a0,carsick.trade,available,5.98,9.98,low,low,7,namecheap,,,
-b898c40a-2d53-423c-9bb0-620d249c8a83,Leia.trade,premium,437.5,,high,low,4,name.com,,,
+b898c40a-2d53-423c-9bb0-620d249c8a83,leia.trade,premium,437.5,,high,low,4,name.com,,,
 6808f1a0-d98e-45cc-9d78-4fa43a688d15,province.trade,premium,437.5,,medium,low,8,name.com,,,
 ddb7e0c4-1c8d-4080-aad7-a545f9fa591a,alky.trade,premium,116,29.5,low,low,4,namesilo,,,
 6dd4af6e-abc5-4701-b82e-d1ecf8abaceb,restinpeace.trade,premium,437.5,,low,low,13,name.com,,,
@@ -818,13 +817,12 @@ fa982311-b23c-4b55-bcaa-eae92fe4d8ec,revelatory.trade,available,5.25,6.25,low,lo
 3dfe2a7f-ee9d-4322-8a91-eeb4f1b6a8a4,suit.trade,resell,,,high,low,4,Dynadot Inc,23/11/2025 10:50,23/11/2026 10:50,
 03d87d65-de8c-425c-a846-cd14e341a9c9,judges.trade,available,9.98,,medium,low,6,namecheap,,,
 76ec7a4d-b15c-4b00-888e-ce0df0325881,truly.trade,premium,437.5,,high,low,5,name.com,,,
-6186dd42-dee2-4343-8f6b-4db068871992,Xrated.trade,premium,437.5,,low,low,7,name.com,,,
+6186dd42-dee2-4343-8f6b-4db068871992,xrated.trade,premium,437.5,,low,low,7,name.com,,,
 40b6afb6-b725-4f19-958c-42dc78c43558,anagogic.trade,available,5.25,6.25,low,low,8,namesilo,,,
 0cbd64b8-1060-4468-816b-2279d9de9bba,alternate.trade,premium,437.5,62.5,high,low,9,name.com,,,
 f281b2b8-27ff-4949-91fd-13090e3812d2,thinking.trade,available,5.25,6.25,high,low,8,namesilo,,,
 5cdde9e7-37e6-4007-9ede-9ceeb47f15e4,banned.trade,premium,1107,116,low,low,6,namesilo,,,08/08/2026 13:44
 f4d2ccd5-fd76-47c7-9ba7-e3a9f09eb885,anguished.trade,available,5.25,6.25,low,low,9,namesilo,,,
-b9462e0f-e845-40b9-bc6f-da1f4703fd66,service.trade,available,,,high,low,7,,,,
 b19107d9-cb7a-45d4-afba-0f2a505eaaa7,camouflage.trade,premium,437.5,,high,low,10,name.com,,,
 2d678ef4-f0ca-4028-bcf7-ab3f1b7095d7,pattycase.trade,available,5.25,6.25,medium,low,10,namesilo,,,
 2bbaf9e3-08ed-4ddc-aa51-ed798b93198b,aware.trade,premium,437.5,,high,low,5,name.com,,,
@@ -848,7 +846,7 @@ bd1692c6-e1da-4c49-b864-f70783b9eb04,detour.trade,premium,437.5,,high,low,6,name
 6b5c495f-533e-481d-b234-5e3be3191574,matte.trade,available,5.25,6.25,high,low,5,namesilo,,,
 724482d3-2e90-4cc4-b227-7cf093842295,painpill.trade,available,5.25,6.25,low,low,9,namesilo,,,
 5c27858b-e473-4155-b430-c4777810230d,against.trade,available,5.25,6.25,medium,low,7,namesilo,,,
-9766c702-d497-495a-8824-e9126dee6e5c,ChineseNewYear.trade,premium,437.5,,high,low,16,name.com,,,
+9766c702-d497-495a-8824-e9126dee6e5c,chinesenewyear.trade,premium,437.5,,high,low,16,name.com,,,
 45a3c206-7a0d-4dbb-b35e-bccf81bfc47a,bailable.trade,available,5.25,6.25,low,low,8,namesilo,,,08/08/2026 08:47
 bb57ff49-a309-49c0-b636-483f04c9f2b3,brook.trade,premium,437.5,,medium,low,5,name.com,,,
 2ac411a4-aec3-4a1c-8cf3-2211265c9ca2,provoke.trade,premium,437.5,,medium,low,7,name.com,,,
@@ -864,14 +862,14 @@ a7a3cc90-83e0-46c3-b007-d22cfa6ccfb9,redvelvet.trade,premium,437.5,,medium,low,1
 7d9c131b-bc55-4518-a400-4eafb545bd99,decumbent.trade,available,5.25,6.25,low,low,9,namesilo,,,
 3bdf6b3c-7209-4f65-a530-b8d7b79baac5,dispose.trade,available,5.25,6.25,high,low,7,namesilo,,,
 3fe139de-167f-4772-924d-e4e8ca3b5068,keepscore.trade,available,5.25,6.25,high,low,10,namesilo,,,
-ebb5a0c7-29b6-4fb8-87d3-66d9c419620b,Romanfoot.trade,available,9.98,,low,low,10,namecheap,,,
+ebb5a0c7-29b6-4fb8-87d3-66d9c419620b,romanfoot.trade,available,9.98,,low,low,10,namecheap,,,
 5745247b-243c-4e06-9134-53e36c0a3420,determined.trade,available,5.25,6.25,high,low,10,namesilo,,,
 df263fed-346a-479f-8c26-7eabe7e3ffb3,packing.trade,available,5.25,6.25,high,low,7,namesilo,,,
 131479c9-a6a8-4043-a3d2-505dc08426bb,getoutofmyface.trade,available,9.98,,medium,low,18,namecheap,,,
 e5985f63-5bc2-4182-ab0b-996f992dc763,flightpath.trade,premium,437.5,,medium,low,11,name.com,,,
 8a26125c-f4bc-4ccf-9b18-406bdf2b2af2,awned.trade,available,5.25,6.25,low,low,5,namesilo,,,08/08/2026 01:16
-e521ae0c-7546-4644-83d9-18b3e30eb4e5,design.trade,resell,,,medium,medium,6,"Spaceship, Inc.",29/07/2019 12:35,29/07/2027 12:35,08/09/2026 12:04
-4d061149-daa5-47da-9c7c-fcbe71b6cb7b,Nutella.trade,premium,448,53.92,medium,medium,7,namesilo,,,14/09/2026 04:08
+e521ae0c-7546-4644-83d9-18b3e30eb4e5,design.trade,resell,,,medium,low,6,"Spaceship, Inc.",29/07/2019 12:35,29/07/2027 12:35,20/09/2026 03:28
+4d061149-daa5-47da-9c7c-fcbe71b6cb7b,nutella.trade,premium,448,53.92,low,low,7,namesilo,,,19/09/2026 10:13
 ef1cafb0-407c-4181-902c-f4d945fc64ce,amoebous.trade,available,5.25,6.25,low,low,8,namesilo,,,
 23f07af7-d712-48d6-8a75-91c3cf25b0b1,seventh.trade,available,5.25,6.25,low,low,7,namesilo,,,
 40c9cdea-5d5b-4d5a-9bc4-e1a9f7238e21,outback.trade,premium,437.5,,high,low,7,name.com,,,
@@ -903,7 +901,6 @@ e29746a4-4ebb-442b-a0cf-9d7a6057ca56,wound.trade,premium,437.5,,high,low,5,name.
 e44dd164-3a27-42db-ba12-81055415d10d,twin.trade,premium,3125,,high,low,4,name.com,,,
 ebe2a99f-4e41-468f-bbf6-a292d62b99ff,getin.trade,premium,437.5,,high,low,6,name.com,,,
 ff25fdc6-8a3f-4131-ad95-32b010b35468,roast.trade,premium,437.5,,high,low,5,name.com,,,
-5e42a1d4-9324-4f92-8ad4-d9f7494e6e68,colors.trade,resell,,,high,low,6,"Spaceship, Inc.",30/07/2025 15:52,30/07/2026 15:52,
 22220996-3ccf-4b07-8bf0-02fe2ccf5e53,angelic.trade,premium,437.5,,high,low,7,name.com,,,
 31fd77b2-d280-4315-8696-19bb3c88fdc7,thing.trade,resell,,,high,low,5,Dynadot Inc,10/12/2024 15:21,10/12/2026 15:21,
 7b0904d6-a6ee-4a60-b209-5394ad7cd3dc,thisway.trade,available,5.25,6.25,low,low,8,namesilo,,,
@@ -948,7 +945,7 @@ b426888c-2a57-4086-9d65-489df50eddcb,coordinate.trade,premium,448,53.92,medium,l
 aecebefe-5f43-4310-9e62-c2bda03c0c33,pesky.trade,premium,437.5,62.5,low,low,5,name.com,,,
 f2c7e193-3381-4586-9be4-039ff2e4eaaf,ambulant.trade,available,5.25,6.25,low,low,8,namesilo,,,
 b4e98738-d697-4185-9775-24be438ce037,auld.trade,available,5.25,6.25,low,low,4,namesilo,,,07/08/2026 17:21
-a79f2162-b65b-4226-8d96-02b970133cfd,Katy.trade,premium,437.5,,high,low,4,name.com,,,
+a79f2162-b65b-4226-8d96-02b970133cfd,katy.trade,premium,437.5,,high,low,4,name.com,,,
 25aaeb67-9fa0-447a-8240-e7ca197205c8,taxation.trade,available,5.25,6.25,medium,low,8,namesilo,,,
 59457739-30cd-4ea9-af6d-3efd0e49f7d8,tel.trade,premium,625,,medium,low,3,name.com,,,
 b2850139-4e5a-4fa0-be70-f6e9b7e355fd,diverted.trade,available,5.98,9.98,low,low,8,namecheap,,,
@@ -999,3 +996,6 @@ c02718ad-87b6-4ae8-8adf-9a39177128b0,blessing.trade,premium,437.5,62.5,low,low,8
 4c361ff2-8ae6-4294-9652-667dfc35bce4,very.trade,resell,,,high,low,4,Dynadot Inc,03/03/2020 11:10,03/03/2027 11:10,
 a56ca597-7e7f-4da2-84df-aea4415ffc23,acquitted.trade,premium,437.5,62.5,low,low,9,name.com,,,
 cb04b7c3-604d-4086-8897-67820ddde3a6,beaked.trade,available,5.25,6.25,low,low,6,namesilo,,,09/08/2026 03:50
+692d2cc0-4011-40b4-a1d3-1f49cb17b971,payfor.trade,premium,116,29.5,high,low,7,namesilo,,,
+fd173b78-f6b8-4597-a615-bfe5e60db7f7,beefedup.trade,available,5.25,6.25,low,low,9,namesilo,,,09/08/2026 07:44
+d017f289-39d7-4d41-a8df-1ce6db0de26c,improvise.trade,premium,437.5,62.5,high,low,9,name.com,,,
