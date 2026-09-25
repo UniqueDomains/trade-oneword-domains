@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .trade one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,891 domains · **Median ask:** $181.29 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/trade`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| smooth.trade  | available | —         | —             | high           | low    | 6      | —                                                   |
 | agog.trade    | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                                           |
 | june.trade    | resell    | $9.98     | —             | high           | low    | 4      | Dynadot Inc                                         |
 | aaa.trade     | premium   | $650      | $84.50        | high           | medium | 3      | namecheap                                           |
@@ -72,18 +71,19 @@ print(df.head())
 | watt.trade    | resell    | $9.98     | —             | high           | low    | 4      | Dynadot Inc                                         |
 | add.trade     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
 | auld.trade    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
-| gross.trade   | resell    | $9.98     | —             | high           | low    | 5      | Dynadot Inc                                         |
+| welfare.trade | resell    | $5.25     | $6.25         | high           | low    | 7      | Dynadot Inc                                         |
 | ads.trade     | premium   | $625      | —             | high           | medium | 3      | name.com                                            |
 | buns.trade    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
-| welfare.trade | resell    | $5.25     | $6.25         | high           | low    | 7      | Dynadot Inc                                         |
-| aft.trade     | premium   | $625      | $81.25        | medium         | low    | 3      | name.com                                            |
-| clxv.trade    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
 | gym.trade     | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| aft.trade     | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                            |
+| clxv.trade    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                            |
+| sea.trade     | resell    | —         | —             | high           | low    | 3      | Porkbun                                             |
 | aim.trade     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
 | cock.trade    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
-| sea.trade     | resell    | —         | —             | high           | low    | 3      | Porkbun                                             |
-| bjp.trade     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| axis.trade    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                    |
+| ane.trade     | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                            |
 | cxlv.trade    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| baby.trade    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
