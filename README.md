@@ -1,10 +1,10 @@
-# Available .TRADE One-Word Domains (23,442)
+# Available .TRADE One-Word Domains (25,319)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C442%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C319%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .trade one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,442 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,319 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,442 domains · **Median ask:** $261.25 · **High-demand under $2,500:** 24
+**Public extract:** 1,000 rows · **Live catalog:** 25,319 domains · **Median ask:** $259.25 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/trade`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| chocolate.trade | resell    | —         | —             | high           | low    | 9      | Dynadot Inc     |
-| aare.trade      | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap       |
-| under.trade     | resell    | $9.98     | —             | high           | low    | 5      | Dynadot Inc     |
-| ads.trade       | premium   | $625      | —             | high           | medium | 3      | name.com        |
-| awry.trade      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
-| chef.trade      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| aft.trade       | premium   | $625      | $81.25        | high           | low    | 3      | name.com        |
-| conk.trade      | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap       |
-| corn.trade      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| amp.trade       | premium   | $650      | $84.50        | high           | high   | 3      | namecheap       |
-| grew.trade      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo        |
-| holy.trade      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| ann.trade       | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| lxxi.trade      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
-| lost.trade      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc. |
-| bag.trade       | premium   | $640      | $77.35        | high           | low    | 3      | namesilo        |
-| mown.trade      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo        |
-| noah.trade      | resell    | —         | —             | high           | medium | 4      | —               |
-| beg.trade       | premium   | $625      | —             | high           | low    | 3      | name.com        |
-| owed.trade      | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap       |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aare.trade  | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap                                                 |
+| under.trade | resell    | $9.98     | —             | high           | low    | 5      | Dynadot Inc                                               |
+| aft.trade   | premium   | $625      | $81.25        | high           | low    | 3      | name.com                                                  |
+| awry.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| casa.trade  | resell    | —         | —             | high           | low    | 4      | —                                                         |
+| amp.trade   | premium   | $650      | $84.50        | high           | high   | 3      | namecheap                                                 |
+| conk.trade  | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap                                                 |
+| chef.trade  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| ann.trade   | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| grew.trade  | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| holy.trade  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| bag.trade   | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| lxxi.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| lost.trade  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| beg.trade   | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| mown.trade  | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                                                  |
+| noah.trade  | resell    | —         | —             | high           | medium | 4      | —                                                         |
+| ceo.trade   | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
+| owed.trade  | available | $5.98     | $9.98         | medium         | low    | 4      | namecheap                                                 |
+| race.trade  | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,442 live domains                        |
+| 1,000-row public sample | 25,319 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 24 high-demand names under $2,500          |
+| Basic exported fields   | 28 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRADE One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
